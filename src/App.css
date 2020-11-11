@@ -1,0 +1,26 @@
+
+.container {
+  padding-left: 10px;
+}
+.headerText {
+  padding-top: 50px;
+  padding-bottom: 8px;
+  font-size: calc(20px + 2vmin);
+  border-bottom: solid 2px;
+  /* background-color: antiquewhite; */
+}
+
+.queryText {
+  padding-top: 5px;
+}
+
+.buttonGroup {
+  padding-top: 5px;
+}
+button{
+  margin-right: 10px;
+}
+
+textarea {
+  background-color: #EEF;
+}
