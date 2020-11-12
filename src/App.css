@@ -7,7 +7,6 @@
   padding-bottom: 8px;
   font-size: calc(20px + 2vmin);
   border-bottom: solid 2px;
-  /* background-color: antiquewhite; */
 }
 
 .queryText {
@@ -23,4 +22,10 @@ button{
 
 textarea {
   background-color: #EEF;
+}
+
+.footer {
+  padding-top: 20px;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
